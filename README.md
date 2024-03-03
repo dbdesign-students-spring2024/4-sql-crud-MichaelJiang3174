@@ -30,7 +30,7 @@ CREATE TABLE reviews (
 );
 
 ### SQL Commands to import data (restaurant)
-sqlite3 your_database_name.db<br>
+sqlite3 SQL_CRUD.db<br>
 .mode csv<br>
 .import MOCK_DATA restaurant.csv restaurants<br>
 
@@ -90,7 +90,7 @@ CREATE TABLE posts (
 );
 
 ### SQL Commands to import data (user, message, story)
-sqlite3 your_database_name.db<br>
+sqlite3 SQL_CRUD.db<br>
 .mode csv<br>
 .import data/MOCK_DATA users.csv users<br>
 .import data/MOCK_DATA message.csv posts<br>
