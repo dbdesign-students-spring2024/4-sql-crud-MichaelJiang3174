@@ -34,6 +34,7 @@ sqlite3 your_database_name.db
 .mode csv
 .import MOCK_DATA restaurant.csv restaurants
 
+## SQL queries (Restaurant finder)
 
 ### 1. Find All Cheap Restaurants in a Particular Neighborhood
 SELECT * FROM restaurants
@@ -92,6 +93,8 @@ sqlite3 your_database_name.db
 .mode csv
 .import /path/to/your/messages.csv posts
 .import /path/to/your/stories.csv posts
+
+## SQL queries (Social media app)
 
 ### 1. Register a New User
 INSERT INTO users (email, password, handle) VALUES ('newuser@example.com', 'password123', 'newuserhandle');
