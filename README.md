@@ -63,6 +63,7 @@ WHERE good_for_kids = FALSE;
 ### 6. Find the Number of Restaurants in Each NYC Neighborhood
 SELECT neighborhood, COUNT(*) AS num_restaurants
 FROM restaurants
+WHERE city = 'New York City'
 GROUP BY neighborhood
 ORDER BY num_restaurants DESC;
 
@@ -97,15 +98,15 @@ sqlite3 your_database_name.db
 ## SQL queries (Social media app)
 
 ### 1. Register a New User
-INSERT INTO users (email, password, handle) VALUES ('newuser@example.com', 'password123', 'newuserhandle');
+INSERT INTO users (email, password, handle) VALUES ('newuser@gmail.com', '12345678', 'Adams');
 
 ### 2. Create a New Message
 INSERT INTO posts (user_id, post_type, content, recipient_id, created_at, visible) 
-VALUES (1, 'Message', 'Hello, this is a test message', 2, DATETIME('now'), TRUE);
+VALUES (1, 'Message', 'Hello, how are you', 2, DATETIME('now'), TRUE);
 
 ### 3. Create a New Story by a Particular User
 INSERT INTO posts (user_id, post_type, content, created_at, visible) 
-VALUES (1, 'Story', 'This is a test story', DATETIME('now'), TRUE);
+VALUES (1, 'Story', 'I am happy today', DATETIME('now'), TRUE);
 
 ### 4. Show the 10 Most Recent Visible Messages and Stories, in Order of Recency
 SELECT * FROM posts 
