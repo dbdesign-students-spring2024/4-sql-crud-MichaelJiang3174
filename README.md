@@ -87,7 +87,7 @@ CREATE TABLE posts (
     FOREIGN KEY (recipient_id) REFERENCES users(user_id)
 );
 
-### SQL Commands to import data (user, )
+### SQL Commands to import data (user, message, story)
 sqlite3 your_database_name.db
 .mode csv
 .import /path/to/your/messages.csv posts
