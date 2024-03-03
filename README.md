@@ -10,7 +10,7 @@
 
 ### SQL Commands to create tables
 CREATE TABLE restaurants (
-    id SERIAL PRIMARY KEY,
+   id SERIAL PRIMARY KEY,
     name TEXT NOT NULL,
     category TEXT NOT NULL,
     price_tier TEXT NOT NULL,
@@ -30,9 +30,9 @@ CREATE TABLE reviews (
 );
 
 ### SQL Commands to import data (restaurant)
-sqlite3 your_database_name.db
-.mode csv
-.import MOCK_DATA restaurant.csv restaurants
+sqlite3 your_database_name.db<br>
+.mode csv<br>
+.import MOCK_DATA restaurant.csv restaurants<br>
 
 ## SQL queries (Restaurant finder)
 
@@ -90,10 +90,11 @@ CREATE TABLE posts (
 );
 
 ### SQL Commands to import data (user, message, story)
-sqlite3 your_database_name.db
-.mode csv
-.import /path/to/your/messages.csv posts
-.import /path/to/your/stories.csv posts
+sqlite3 your_database_name.db<br>
+.mode csv<br>
+.import data/MOCK_DATA users.csv users<br>
+.import data/MOCK_DATA message.csv posts<br>
+.import data/MOCK_DATA story.csv posts
 
 ## SQL queries (Social media app)
 
