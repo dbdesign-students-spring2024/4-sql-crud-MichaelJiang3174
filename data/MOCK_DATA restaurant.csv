@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+1,It,Mediterranean,Expensive,Vermont,8:05 AM,2,false
+2,Andalax,Japanese,Medium,Monterey,1:54 AM,5,false
+3,Konklux,Thai,Cheep,Spenser,10:18 AM,4,true
+4,Keylex,French,Cheep,Steensland,1:23 PM,4,false
+5,Rank,Thai,Medium,Merry,12:10 PM,4,true
+6,Hatity,Mediterranean,Expensive,Clove,8:10 PM,3,true
+7,Transcof,Chinese,Cheep,Manitowish,8:33 AM,3,false
+8,Alphazap,Thai,Cheep,Meadow Valley,6:46 AM,5,false
+9,Regrant,Vegan,Medium,Steensland,3:58 AM,5,false
+10,Lotstring,Thai,Cheep,Eliot,10:39 PM,4,true
+11,Transcof,Vegan,Cheep,Jana,3:58 AM,4,true
+12,Sonsing,Thai,Medium,Fordem,3:05 AM,1,true
+13,Lotlux,Korean,Cheep,Dorton,5:16 AM,1,true
+14,Redhold,Italian,Medium,Pleasure,11:21 AM,4,false
+15,Biodex,French,Medium,Jenna,9:29 AM,2,false
+16,Hatity,Mexican,Expensive,Elmside,8:05 PM,2,false
+17,Biodex,Vegan,Expensive,Mallard,11:21 PM,3,true
+18,Redhold,Mexican,Expensive,Larry,3:14 PM,4,true
+19,Matsoft,American,Medium,Caliangt,12:39 PM,3,true
+20,Y-find,American,Expensive,Waywood,5:23 PM,5,false
+21,Flowdesk,Indian,Medium,Crest Line,2:53 PM,2,false
+22,Prodder,Mexican,Expensive,Clove,5:17 PM,3,true
+23,Voltsillam,Italian,Cheep,Veith,7:47 AM,4,false
+24,Zathin,Mediterranean,Expensive,School,1:36 PM,2,true
+25,Tempsoft,Mediterranean,Expensive,Acker,6:09 AM,3,true
+26,Wrapsafe,American,Expensive,Transport,9:27 PM,1,false
+27,Alpha,Thai,Cheep,Burrows,6:19 PM,3,false
+28,Redhold,French,Cheep,Ryan,5:39 AM,1,false
+29,Stronghold,Thai,Medium,Mayfield,5:20 PM,1,true
+30,Job,French,Cheep,Ramsey,11:31 PM,3,true
+31,Veribet,American,Expensive,Buena Vista,10:53 PM,4,true
+32,Trippledex,Vegan,Cheep,Thompson,3:51 PM,4,false
+33,Namfix,Vegan,Expensive,Dixon,9:44 PM,2,true
+34,Vagram,American,Cheep,Prentice,7:24 AM,3,true
+35,Bigtax,Japanese,Expensive,Hansons,6:29 PM,5,false
+36,Lotstring,Korean,Medium,Norway Maple,8:18 AM,2,false
+37,Tampflex,American,Medium,Lukken,11:42 PM,1,false
+38,Asoka,Thai,Cheep,Lakewood Gardens,1:12 AM,1,true
+39,Zamit,Mexican,Expensive,Transport,6:33 AM,1,false
+40,Tampflex,French,Cheep,Hauk,12:45 AM,3,true
+41,Bigtax,Mexican,Expensive,Kenwood,12:09 PM,4,false
+42,Cookley,Italian,Medium,Bartelt,2:06 PM,4,true
+43,Otcom,Mexican,Expensive,Tomscot,1:48 AM,2,true
+44,Toughjoyfax,American,Expensive,Comanche,8:56 PM,1,false
+45,Fix San,Vegan,Cheep,Sutteridge,12:18 PM,3,false
+46,Stringtough,Indian,Medium,Rusk,5:27 AM,2,false
+47,Duobam,Thai,Cheep,Blue Bill Park,5:30 AM,3,true
+48,Bitwolf,French,Cheep,Little Fleur,7:42 AM,1,false
+49,Fixflex,Thai,Cheep,Meadow Valley,4:33 AM,2,true
+50,Solarbreeze,American,Cheep,Rigney,7:00 PM,1,false
+51,Flowdesk,American,Medium,Eagle Crest,5:19 AM,1,false
+52,Stringtough,Chinese,Expensive,1st,5:19 AM,2,true
+53,Konklux,Vegan,Expensive,Thompson,7:01 AM,2,false
+54,Alphazap,Indian,Expensive,Katie,1:52 PM,3,true
+55,Bitchip,Mexican,Cheep,Jackson,9:17 PM,2,true
+56,Zoolab,Vegan,Expensive,Oak Valley,6:24 PM,2,false
+57,Zontrax,Italian,Cheep,Muir,12:26 AM,5,false
+58,Biodex,Chinese,Cheep,Lawn,5:26 PM,5,false
+59,Job,Mediterranean,Cheep,Melody,11:16 PM,4,true
+60,Cardify,Mediterranean,Cheep,Judy,3:22 AM,5,false
+61,Sonsing,Chinese,Medium,Eliot,11:26 PM,2,false
+62,Tresom,Vegan,Expensive,Mifflin,6:31 PM,1,false
+63,Subin,American,Medium,Burrows,3:07 AM,4,true
+64,It,Italian,Cheep,Forest,5:23 AM,2,true
+65,Holdlamis,Indian,Medium,Burrows,12:46 PM,2,false
+66,Transcof,Thai,Expensive,Center,11:42 AM,3,true
+67,Daltfresh,Korean,Cheep,Ryan,11:06 AM,2,true
+68,Pannier,Italian,Expensive,Warner,7:04 PM,4,true
+69,Otcom,Korean,Cheep,Shasta,11:40 AM,4,true
+70,Mat Lam Tam,Mediterranean,Expensive,Helena,4:33 PM,2,false
+71,Zamit,Mexican,Cheep,Golf View,12:54 PM,1,false
+72,Asoka,Mexican,Medium,Carberry,7:48 PM,3,false
+73,Hatity,Thai,Cheep,Hoffman,9:07 AM,2,false
+74,Quo Lux,Korean,Medium,Barby,6:32 AM,5,false
+75,Bamity,Mexican,Medium,Old Shore,5:37 AM,4,true
+76,Namfix,Indian,Cheep,Evergreen,1:45 AM,1,false
+77,Vagram,Japanese,Expensive,6th,7:33 PM,5,true
+78,Fixflex,Mediterranean,Medium,Morning,9:21 PM,5,false
+79,Span,Vegan,Cheep,Daystar,11:06 PM,5,true
+80,Greenlam,Mexican,Cheep,Upham,1:44 PM,1,true
+81,Y-find,Indian,Expensive,Springs,1:05 PM,2,true
+82,Duobam,Korean,Expensive,Hollow Ridge,9:24 PM,3,true
+83,Konklux,Indian,Expensive,Grim,3:20 AM,1,false
+84,It,Thai,Expensive,Namekagon,10:55 PM,2,false
+85,Andalax,Japanese,Medium,Montana,4:49 AM,5,false
+86,Rank,Korean,Medium,Macpherson,9:40 PM,3,true
+87,Solarbreeze,Japanese,Expensive,Myrtle,2:11 AM,3,true
+88,Latlux,Mexican,Cheep,2nd,2:48 AM,5,false
+89,Namfix,French,Medium,Fairview,2:36 PM,1,false
+90,Redhold,Italian,Medium,Hoard,2:43 PM,2,false
+91,Alpha,Thai,Expensive,Victoria,4:22 AM,3,true
+92,Rank,Thai,Expensive,Huxley,7:56 AM,2,false
+93,Domainer,French,Cheep,Talmadge,2:40 AM,5,false
+94,Home Ing,Italian,Expensive,Summit,5:12 PM,1,true
+95,Biodex,Vegan,Cheep,Mariners Cove,9:37 PM,5,false
+96,Veribet,Mexican,Cheep,Pankratz,8:15 PM,5,true
+97,Latlux,American,Expensive,Melrose,6:44 AM,3,false
+98,Temp,Indian,Cheep,Autumn Leaf,12:12 AM,4,true
+99,Toughjoyfax,Japanese,Medium,New Castle,9:58 AM,2,false
+100,Tampflex,Chinese,Cheep,Judy,12:36 PM,2,true
+101,Flowdesk,Chinese,Expensive,Dwight,1:01 AM,4,false
+102,Fix San,Indian,Expensive,Briar Crest,10:43 PM,3,false
+103,Zontrax,Japanese,Expensive,Coleman,2:25 PM,3,false
+104,Bitwolf,Thai,Medium,Norway Maple,5:43 AM,1,false
+105,Gembucket,Thai,Medium,Rockefeller,8:55 AM,2,true
+106,Bigtax,Vegan,Medium,Scoville,4:33 AM,2,true
+107,Span,Indian,Expensive,Barnett,7:59 PM,5,false
+108,Fixflex,Chinese,Medium,7th,4:14 PM,2,true
+109,Lotlux,Vegan,Expensive,Mcguire,8:49 PM,1,true
+110,Pannier,Italian,Cheep,Hallows,8:37 AM,1,false
+111,Aerified,Korean,Expensive,Kings,12:26 PM,1,false
+112,Bitwolf,Mediterranean,Expensive,Dwight,2:05 PM,4,true
+113,Viva,Indian,Expensive,Bultman,4:40 AM,5,false
+114,Lotstring,American,Medium,Texas,3:35 AM,2,false
+115,Namfix,Mediterranean,Expensive,Coleman,6:26 AM,1,false
+116,Bigtax,Italian,Medium,Vera,4:50 PM,4,true
+117,Veribet,French,Cheep,Buhler,3:27 AM,4,true
+118,Konklux,Korean,Medium,Mifflin,5:14 PM,4,true
+119,Cookley,Mexican,Medium,Nevada,2:34 PM,4,false
+120,Asoka,Japanese,Expensive,Riverside,2:27 AM,4,false
+121,Cardify,American,Cheep,Lerdahl,11:58 PM,1,false
+122,Aerified,French,Medium,Roxbury,6:21 AM,1,true
+123,Stringtough,Chinese,Medium,Bluestem,3:45 AM,5,false
+124,Daltfresh,French,Cheep,Crest Line,10:55 AM,5,false
+125,Aerified,American,Cheep,Butternut,11:05 PM,2,false
+126,Temp,Mediterranean,Expensive,Porter,6:18 PM,3,true
+127,Matsoft,Vegan,Medium,Shoshone,5:27 PM,1,false
+128,Aerified,Italian,Medium,Browning,2:33 AM,5,false
+129,Opela,Thai,Cheep,Mesta,9:55 PM,2,true
+130,Matsoft,Korean,Expensive,Utah,4:02 PM,5,true
+131,Bamity,French,Expensive,Arapahoe,11:06 AM,5,true
+132,Fix San,Italian,Cheep,Farwell,2:50 AM,4,false
+133,Hatity,French,Cheep,Lien,5:27 AM,4,true
+134,Gembucket,Vegan,Medium,5th,3:17 PM,4,false
+135,Tresom,American,Medium,Twin Pines,6:40 PM,5,false
+136,Sub-Ex,Thai,Expensive,Morning,10:14 PM,5,false
+137,Bamity,Indian,Expensive,Dahle,10:51 PM,4,true
+138,Konklab,American,Expensive,High Crossing,12:09 PM,3,true
+139,Redhold,Korean,Expensive,Thackeray,4:36 PM,1,true
+140,Hatity,Italian,Expensive,Jenna,4:23 AM,3,false
+141,Toughjoyfax,Indian,Medium,Corscot,12:45 AM,2,false
+142,Namfix,Chinese,Cheep,Meadow Vale,8:19 PM,3,true
+143,Wrapsafe,Indian,Expensive,Talmadge,2:30 PM,3,false
+144,Span,Chinese,Expensive,Shoshone,2:54 AM,2,false
+145,Alpha,Italian,Medium,Pennsylvania,1:38 PM,4,true
+146,Ventosanzap,Japanese,Medium,Truax,2:46 PM,1,false
+147,Cardify,Chinese,Cheep,Quincy,7:29 AM,5,true
+148,Cookley,Indian,Expensive,Veith,7:29 PM,1,true
+149,Sonair,Japanese,Medium,6th,11:16 AM,4,true
+150,Fix San,Chinese,Expensive,Tony,8:39 AM,2,true
+151,Subin,Mexican,Medium,Old Gate,4:22 AM,5,false
+152,Hatity,Japanese,Medium,Melody,7:55 PM,3,false
+153,Viva,Mediterranean,Cheep,Iowa,2:04 PM,1,true
+154,Stringtough,Thai,Cheep,Huxley,5:27 PM,2,false
+155,Cardguard,Thai,Cheep,Surrey,4:20 PM,4,true
+156,It,Mexican,Cheep,Knutson,1:32 PM,2,false
+157,Keylex,Indian,Expensive,Sloan,9:40 PM,4,false
+158,Tempsoft,French,Expensive,Fallview,7:25 PM,1,true
+159,Veribet,Korean,Medium,Gateway,1:35 PM,1,true
+160,Ventosanzap,American,Cheep,Summit,8:21 AM,1,true
+161,Wrapsafe,Chinese,Cheep,Algoma,9:23 AM,2,false
+162,Voyatouch,Mexican,Medium,Magdeline,4:02 PM,3,true
+163,It,American,Cheep,Colorado,12:12 AM,5,true
+164,Zoolab,Mediterranean,Medium,Anniversary,8:55 PM,1,true
+165,Rank,Indian,Expensive,Armistice,3:54 PM,5,true
+166,Daltfresh,Mexican,Expensive,Scoville,3:07 AM,2,false
+167,Redhold,Mediterranean,Cheep,Sutteridge,4:08 PM,1,true
+168,Zoolab,Mediterranean,Medium,Sachs,3:37 AM,3,true
+169,Cardify,Indian,Cheep,American Ash,7:16 PM,1,false
+170,Pannier,Indian,Medium,Eagan,1:19 AM,4,false
+171,Job,French,Cheep,Meadow Valley,4:36 PM,5,false
+172,Cookley,French,Medium,Boyd,3:11 AM,2,false
+173,Konklab,Italian,Cheep,Lillian,6:33 AM,3,true
+174,Treeflex,Indian,Cheep,Porter,6:24 PM,5,false
+175,Y-Solowarm,Mediterranean,Cheep,Carberry,3:11 AM,3,false
+176,Zathin,Mediterranean,Cheep,Warner,9:00 PM,1,false
+177,Regrant,Thai,Cheep,Clarendon,2:46 PM,3,false
+178,Temp,Indian,Medium,Mandrake,6:08 PM,2,true
+179,Namfix,Vegan,Cheep,Lunder,6:27 PM,3,true
+180,Holdlamis,American,Cheep,Buena Vista,8:40 AM,4,false
+181,Prodder,Japanese,Cheep,Summit,9:23 AM,3,false
+182,Zamit,Japanese,Medium,Spenser,7:10 PM,1,false
+183,Daltfresh,Korean,Medium,Hansons,4:45 AM,2,true
+184,Alpha,Japanese,Expensive,Hovde,1:48 PM,1,true
+185,Duobam,Vegan,Cheep,Pennsylvania,10:19 PM,2,false
+186,Alphazap,Mediterranean,Medium,Rieder,9:47 PM,2,true
+187,Fix San,Mediterranean,Cheep,Lakewood,2:04 PM,1,false
+188,Flowdesk,Korean,Cheep,Laurel,1:50 PM,5,true
+189,Flowdesk,French,Cheep,Hovde,5:32 PM,2,true
+190,Redhold,Mexican,Cheep,Northridge,10:26 AM,4,true
+191,Otcom,Korean,Expensive,School,7:37 AM,4,false
+192,Sonsing,Mediterranean,Expensive,Village Green,6:16 AM,4,false
+193,Greenlam,Vegan,Cheep,Glendale,5:55 PM,1,false
+194,Quo Lux,American,Cheep,Redwing,2:23 PM,4,false
+195,Biodex,Mediterranean,Expensive,Marquette,9:08 PM,3,false
+196,Veribet,Indian,Medium,Lakewood Gardens,12:22 AM,2,true
+197,Stringtough,American,Medium,Fremont,1:19 PM,5,true
+198,Stim,American,Expensive,Pleasure,11:19 PM,3,false
+199,Bamity,Thai,Medium,Mccormick,6:28 AM,3,false
+200,It,Mexican,Medium,Welch,10:16 PM,1,true
+201,Solarbreeze,French,Medium,Chinook,8:32 PM,4,false
+202,Kanlam,Korean,Cheep,Florence,2:21 AM,1,true
+203,Bitwolf,Japanese,Cheep,Emmet,6:24 PM,5,false
+204,Trippledex,French,Expensive,Iowa,6:52 PM,4,false
+205,Regrant,Indian,Cheep,Stephen,4:21 PM,5,false
+206,Viva,American,Medium,Fieldstone,12:36 PM,1,false
+207,Aerified,American,Medium,Blue Bill Park,11:50 AM,2,false
+208,Overhold,French,Expensive,Cardinal,7:46 AM,1,false
+209,Fix San,French,Medium,Forest Run,11:47 AM,2,false
+210,Lotlux,Indian,Expensive,Huxley,5:02 AM,2,false
+211,Kanlam,Japanese,Expensive,Park Meadow,11:52 PM,1,false
+212,Toughjoyfax,American,Medium,Barby,4:04 AM,2,true
+213,Job,Japanese,Medium,Towne,1:17 PM,5,false
+214,Opela,French,Cheep,Eggendart,1:52 AM,1,true
+215,Holdlamis,Korean,Medium,Miller,7:25 AM,2,false
+216,Mat Lam Tam,Italian,Expensive,Bluejay,3:38 PM,5,true
+217,Namfix,French,Medium,Hooker,8:14 AM,1,false
+218,Toughjoyfax,Japanese,Medium,Del Sol,3:43 AM,2,false
+219,Voltsillam,Chinese,Expensive,Arrowood,11:08 AM,2,true
+220,Domainer,American,Cheep,Ryan,1:35 PM,5,false
+221,Mat Lam Tam,Mediterranean,Cheep,Bartillon,3:49 PM,5,false
+222,Wrapsafe,Vegan,Cheep,Ridgeway,12:01 AM,2,true
+223,Alphazap,Japanese,Cheep,Blaine,1:07 PM,5,true
+224,Mat Lam Tam,Vegan,Cheep,Merrick,7:12 PM,2,false
+225,Tampflex,Mexican,Medium,Vidon,2:59 AM,3,false
+226,Sub-Ex,Japanese,Expensive,Duke,11:31 AM,2,true
+227,Subin,American,Cheep,Algoma,1:04 PM,2,false
+228,Subin,Mexican,Cheep,Pennsylvania,5:48 AM,3,true
+229,Zontrax,Italian,Expensive,Merchant,12:53 AM,3,true
+230,Hatity,Thai,Cheep,5th,8:43 AM,3,false
+231,Trippledex,Mexican,Expensive,Eagan,12:09 AM,1,false
+232,Alphazap,Italian,Cheep,Northwestern,11:38 PM,4,false
+233,Pannier,French,Medium,Caliangt,3:51 AM,1,false
+234,Bitwolf,French,Expensive,Emmet,8:28 PM,5,false
+235,Aerified,Chinese,Medium,Milwaukee,11:57 PM,3,false
+236,Span,Mediterranean,Expensive,Declaration,4:28 PM,3,false
+237,Overhold,Chinese,Expensive,Moulton,1:11 AM,5,true
+238,Bitchip,Thai,Cheep,Maple Wood,2:14 AM,4,true
+239,Solarbreeze,Chinese,Expensive,Charing Cross,11:39 PM,1,false
+240,Cardify,Indian,Cheep,Di Loreto,10:34 PM,3,true
+241,Veribet,American,Medium,Vermont,9:19 AM,3,true
+242,Pannier,French,Medium,Farragut,2:23 AM,3,false
+243,Greenlam,Mediterranean,Expensive,Mockingbird,12:22 PM,4,false
+244,Duobam,Mediterranean,Expensive,Ilene,6:03 AM,4,true
+245,Zaam-Dox,Korean,Medium,Delaware,2:34 PM,2,false
+246,It,Thai,Medium,Parkside,10:12 PM,3,true
+247,Asoka,French,Expensive,Bellgrove,5:07 PM,4,true
+248,Konklab,Chinese,Medium,Moose,12:31 AM,2,true
+249,Sub-Ex,Mexican,Expensive,Summerview,9:16 PM,4,false
+250,Hatity,Indian,Cheep,Stone Corner,7:24 AM,4,false
+251,Bitchip,Vegan,Cheep,Mesta,3:32 AM,1,false
+252,Fixflex,Thai,Cheep,Fair Oaks,1:13 PM,5,true
+253,Redhold,Japanese,Medium,Village Green,8:26 PM,1,true
+254,Cardguard,Thai,Cheep,Reinke,1:11 PM,4,true
+255,Konklab,Vegan,Cheep,Manley,12:53 AM,4,true
+256,Ronstring,American,Medium,Memorial,11:07 PM,4,true
+257,Pannier,Mexican,Expensive,Starling,2:10 PM,4,true
+258,Biodex,Chinese,Cheep,Meadow Valley,2:43 AM,1,true
+259,Span,American,Cheep,Namekagon,8:06 AM,4,true
+260,Stim,Mexican,Medium,Independence,3:00 AM,4,true
+261,Gembucket,Korean,Medium,Shoshone,2:46 AM,1,true
+262,Tresom,Italian,Expensive,Bluestem,5:38 AM,1,true
+263,Otcom,Korean,Expensive,Melody,2:08 AM,5,false
+264,Fixflex,Vegan,Expensive,Almo,5:43 PM,1,false
+265,Rank,French,Cheep,Schmedeman,12:16 AM,4,true
+266,Tres-Zap,Korean,Cheep,Little Fleur,7:26 AM,5,true
+267,Bamity,Italian,Medium,Longview,8:03 AM,4,true
+268,Tresom,Mediterranean,Expensive,Badeau,1:24 PM,4,false
+269,Treeflex,American,Medium,Darwin,11:46 PM,3,true
+270,Andalax,Thai,Medium,Arizona,1:27 PM,3,false
+271,Asoka,Thai,Cheep,Prentice,9:28 PM,3,true
+272,Tampflex,Italian,Cheep,Carberry,7:15 PM,2,false
+273,Sonsing,Italian,Cheep,Bowman,3:21 PM,3,true
+274,Treeflex,Thai,Cheep,Fallview,4:09 PM,4,true
+275,Tin,Japanese,Expensive,Mitchell,3:51 PM,5,false
+276,Gembucket,Korean,Expensive,Esker,4:49 AM,1,false
+277,Biodex,French,Expensive,Starling,2:32 AM,2,false
+278,Redhold,Indian,Medium,Sundown,8:19 AM,2,true
+279,Stim,Thai,Cheep,Butternut,10:42 PM,3,true
+280,Asoka,Mexican,Medium,Larry,10:00 PM,1,true
+281,Bitchip,Mexican,Expensive,Stoughton,9:01 AM,3,true
+282,Daltfresh,Korean,Medium,Roxbury,12:35 PM,1,true
+283,Home Ing,Thai,Medium,Hoard,9:58 PM,3,false
+284,Regrant,Mexican,Medium,Anzinger,10:35 AM,5,false
+285,Fixflex,American,Expensive,Golf,4:59 AM,5,false
+286,Alpha,American,Expensive,Northland,4:54 PM,2,true
+287,Flexidy,Thai,Cheep,Nancy,5:52 PM,4,true
+288,Sub-Ex,Mediterranean,Cheep,Lunder,7:21 PM,5,true
+289,Temp,Thai,Cheep,Grover,12:41 AM,5,true
+290,Fixflex,Japanese,Expensive,Fremont,7:49 PM,2,false
+291,Holdlamis,Chinese,Cheep,Delaware,2:37 AM,2,true
+292,It,Japanese,Expensive,Banding,3:02 AM,1,true
+293,Job,Mexican,Cheep,Farmco,3:12 PM,1,false
+294,Andalax,Chinese,Cheep,Clarendon,9:26 PM,4,true
+295,Cookley,Thai,Medium,Goodland,10:04 PM,5,true
+296,Flexidy,Mexican,Expensive,Shoshone,7:07 PM,3,true
+297,Stim,Korean,Expensive,Miller,3:59 PM,5,false
+298,Kanlam,Italian,Expensive,Prairie Rose,3:42 PM,3,false
+299,Konklab,Italian,Cheep,Bellgrove,10:03 AM,5,false
+300,Duobam,Indian,Cheep,Service,1:54 AM,5,false
+301,Stringtough,Indian,Medium,Kedzie,5:31 AM,4,false
+302,Latlux,Indian,Expensive,Washington,11:11 PM,3,true
+303,Fix San,Mediterranean,Medium,Briar Crest,9:20 AM,2,false
+304,Prodder,Mediterranean,Expensive,Vermont,3:34 PM,2,false
+305,Y-Solowarm,Mediterranean,Cheep,Crownhardt,4:30 AM,2,false
+306,Opela,French,Medium,Carpenter,4:36 AM,5,true
+307,Stim,Mexican,Expensive,Park Meadow,8:29 PM,3,true
+308,Keylex,Vegan,Cheep,Norway Maple,11:03 PM,2,true
+309,Asoka,French,Expensive,Eliot,3:58 PM,2,true
+310,Zathin,Korean,Medium,Muir,3:29 PM,5,false
+311,Aerified,Mexican,Cheep,Norway Maple,5:12 AM,4,true
+312,Toughjoyfax,Italian,Medium,Lakewood Gardens,3:54 PM,1,false
+313,Vagram,French,Medium,Briar Crest,4:28 AM,2,true
+314,Prodder,Italian,Cheep,Crescent Oaks,7:28 PM,4,false
+315,Greenlam,Indian,Cheep,Vera,9:51 AM,3,false
+316,Zathin,Korean,Cheep,Green Ridge,2:51 AM,5,true
+317,Y-Solowarm,Indian,Medium,Mosinee,2:36 AM,3,false
+318,Konklab,French,Cheep,Maple Wood,3:44 AM,4,true
+319,Hatity,Thai,Cheep,Namekagon,7:30 AM,4,false
+320,Holdlamis,French,Expensive,Hauk,3:02 PM,3,false
+321,Cookley,Vegan,Cheep,Barnett,12:08 AM,4,true
+322,Alpha,Mediterranean,Medium,Mifflin,6:29 PM,4,false
+323,Cardguard,Italian,Medium,Buena Vista,3:30 PM,5,true
+324,Zaam-Dox,Japanese,Medium,Carey,2:30 AM,5,false
+325,Biodex,American,Medium,Shelley,5:09 PM,3,true
+326,Andalax,Mediterranean,Cheep,Melrose,2:02 AM,4,false
+327,Ronstring,Vegan,Cheep,Marcy,2:56 PM,1,true
+328,Trippledex,Italian,Medium,Blaine,4:57 AM,3,true
+329,Bitchip,Indian,Cheep,Rowland,12:21 PM,3,true
+330,Zaam-Dox,Vegan,Expensive,Independence,1:09 PM,3,false
+331,Wrapsafe,Chinese,Expensive,Ramsey,12:38 PM,4,true
+332,Rank,Mediterranean,Expensive,Elgar,11:00 AM,2,false
+333,Solarbreeze,Japanese,Cheep,Moulton,4:10 PM,5,false
+334,Quo Lux,Korean,Cheep,Dennis,6:54 AM,1,false
+335,Opela,Italian,Cheep,Glendale,7:19 PM,4,false
+336,Treeflex,Mediterranean,Expensive,Annamark,6:50 AM,4,true
+337,Cookley,Chinese,Cheep,Susan,5:29 PM,4,false
+338,Bitwolf,Mexican,Medium,Westerfield,5:40 PM,1,false
+339,Konklux,Thai,Medium,8th,11:08 AM,2,true
+340,Ventosanzap,American,Expensive,Northfield,9:05 AM,4,true
+341,Wrapsafe,Mediterranean,Expensive,Roth,3:56 PM,2,false
+342,Tin,Thai,Cheep,South,6:56 PM,4,false
+343,Sub-Ex,Chinese,Expensive,Everett,2:55 PM,3,true
+344,Trippledex,Thai,Medium,Goodland,3:46 AM,5,false
+345,Zaam-Dox,Vegan,Medium,Crest Line,3:29 PM,3,false
+346,Zathin,Italian,Medium,Londonderry,9:45 PM,5,false
+347,Vagram,Chinese,Medium,Hallows,10:03 AM,2,true
+348,Bamity,Indian,Expensive,Alpine,9:33 AM,3,false
+349,Fintone,Mexican,Medium,Roxbury,3:26 PM,1,false
+350,Rank,Mexican,Cheep,Spohn,2:29 PM,5,true
+351,Zamit,Korean,Cheep,Surrey,3:12 AM,3,true
+352,Y-Solowarm,Mediterranean,Cheep,Nevada,12:40 PM,4,false
+353,Alphazap,Mediterranean,Expensive,Anhalt,12:09 AM,1,true
+354,Prodder,Korean,Cheep,Green Ridge,1:09 PM,4,false
+355,Sonsing,Italian,Expensive,Lawn,11:04 AM,5,false
+356,Quo Lux,Mexican,Cheep,Texas,12:21 PM,2,false
+357,Ronstring,Mexican,Expensive,Nobel,4:33 AM,1,false
+358,Otcom,Korean,Expensive,Manitowish,7:09 AM,2,true
+359,Zamit,Mediterranean,Medium,Warrior,9:07 AM,1,true
+360,Tempsoft,Mediterranean,Medium,Armistice,1:28 AM,3,true
+361,Stronghold,Mexican,Cheep,Mcguire,4:34 AM,1,false
+362,Tres-Zap,Chinese,Cheep,Blackbird,6:56 AM,4,false
+363,Prodder,Indian,Cheep,Starling,1:39 AM,4,true
+364,Mat Lam Tam,Thai,Cheep,Commercial,2:31 AM,5,false
+365,Tempsoft,Vegan,Expensive,Dwight,12:11 PM,5,true
+366,Home Ing,Italian,Medium,Carioca,8:04 PM,4,true
+367,Zathin,Vegan,Expensive,Beilfuss,2:31 AM,1,true
+368,Alpha,Vegan,Cheep,Lien,3:31 PM,2,true
+369,Cookley,Japanese,Cheep,Arkansas,2:38 PM,2,false
+370,Regrant,Japanese,Medium,Delaware,5:11 AM,5,false
+371,Overhold,Mediterranean,Expensive,Northview,2:24 AM,4,true
+372,Asoka,Vegan,Expensive,Monterey,8:12 PM,4,false
+373,Opela,Mediterranean,Cheep,Cherokee,2:15 AM,2,false
+374,Zaam-Dox,American,Medium,7th,8:51 AM,4,true
+375,Keylex,French,Expensive,Pepper Wood,3:43 AM,5,false
+376,Ronstring,American,Medium,Lawn,3:50 AM,4,false
+377,Viva,Mediterranean,Medium,Oneill,2:06 AM,2,false
+378,Home Ing,Thai,Medium,Independence,12:55 PM,2,true
+379,Aerified,Italian,Medium,Chinook,7:37 AM,2,false
+380,Span,French,Cheep,Mallory,9:08 PM,2,false
+381,Gembucket,American,Expensive,Helena,5:36 PM,5,true
+382,Gembucket,Italian,Cheep,Welch,8:20 PM,2,true
+383,Job,American,Expensive,Mccormick,7:07 PM,1,true
+384,Lotstring,Vegan,Expensive,Forest Dale,9:36 AM,4,false
+385,Gembucket,Vegan,Expensive,Trailsway,1:01 AM,3,false
+386,Biodex,Mexican,Medium,Westerfield,11:43 AM,5,true
+387,Cardify,Chinese,Cheep,Vermont,10:25 AM,3,false
+388,Andalax,American,Medium,Sunbrook,1:13 PM,3,false
+389,Zontrax,Mexican,Expensive,Sugar,6:24 PM,3,false
+390,Bamity,American,Cheep,Manitowish,4:07 PM,1,false
+391,Pannier,Mexican,Cheep,Lyons,7:29 AM,4,false
+392,Voyatouch,Thai,Medium,Bultman,10:50 AM,2,false
+393,Konklux,Mediterranean,Cheep,Glacier Hill,5:08 PM,5,false
+394,Konklab,Indian,Cheep,Morrow,9:28 AM,4,true
+395,Bytecard,Japanese,Medium,Commercial,4:33 AM,1,true
+396,Trippledex,Indian,Medium,Ramsey,1:40 AM,1,false
+397,Duobam,American,Medium,Novick,5:50 AM,4,false
+398,Ventosanzap,American,Medium,Reinke,12:54 AM,3,false
+399,Flexidy,Mexican,Expensive,Darwin,4:17 AM,4,true
+400,Andalax,Korean,Expensive,Delladonna,3:40 AM,3,false
+401,Tempsoft,Korean,Cheep,Texas,12:26 AM,2,false
+402,Prodder,French,Expensive,Northland,5:50 PM,5,false
+403,Solarbreeze,American,Cheep,Wayridge,6:28 AM,3,true
+404,Domainer,Korean,Medium,Barnett,11:35 PM,2,true
+405,Cardguard,Mexican,Expensive,Grim,3:52 AM,2,false
+406,Keylex,American,Cheep,Stoughton,11:58 PM,4,false
+407,Y-Solowarm,French,Expensive,Sutteridge,2:13 AM,4,false
+408,Hatity,Korean,Expensive,Delladonna,5:22 PM,2,true
+409,Voyatouch,Thai,Cheep,Rigney,9:42 AM,2,false
+410,Mat Lam Tam,Chinese,Medium,Eastlawn,2:12 PM,3,true
+411,Stringtough,French,Expensive,Butterfield,3:57 AM,1,false
+412,Sub-Ex,French,Medium,Golf,12:22 PM,4,true
+413,Tempsoft,Korean,Cheep,Service,3:15 PM,2,false
+414,Overhold,Chinese,Expensive,Lyons,11:04 PM,5,true
+415,It,Vegan,Expensive,Golf Course,10:32 AM,3,false
+416,Keylex,Korean,Expensive,Johnson,2:11 AM,1,false
+417,Subin,Japanese,Expensive,Independence,10:05 AM,1,false
+418,Hatity,Mediterranean,Cheep,Village Green,12:28 AM,5,true
+419,Konklab,French,Expensive,Superior,3:18 PM,4,false
+420,Alphazap,French,Cheep,Fallview,11:46 PM,5,false
+421,Voyatouch,Mexican,Expensive,Center,8:21 PM,3,false
+422,Overhold,Chinese,Cheep,Sunfield,6:40 PM,2,true
+423,Veribet,Vegan,Expensive,Novick,11:27 PM,5,true
+424,Otcom,Italian,Cheep,Stuart,3:52 PM,1,true
+425,Latlux,Vegan,Cheep,Lakeland,1:48 AM,3,true
+426,Bitchip,American,Cheep,Coleman,3:52 PM,5,false
+427,Bytecard,Mediterranean,Cheep,Amoth,9:29 AM,4,true
+428,Opela,Japanese,Cheep,Sutteridge,6:52 PM,5,true
+429,Pannier,Vegan,Medium,Dexter,11:16 AM,3,true
+430,Kanlam,Vegan,Medium,Oakridge,7:27 AM,2,false
+431,Domainer,Korean,Cheep,Oakridge,9:29 AM,4,true
+432,Viva,Vegan,Cheep,Hintze,10:07 AM,1,false
+433,Y-find,French,Cheep,Fieldstone,7:59 PM,1,true
+434,Solarbreeze,Vegan,Medium,Stang,8:49 PM,3,true
+435,Duobam,Mexican,Expensive,Fieldstone,7:15 PM,3,true
+436,Gembucket,Chinese,Cheep,Raven,7:39 PM,5,false
+437,Zamit,Mediterranean,Expensive,Dovetail,3:42 PM,2,true
+438,Y-Solowarm,Italian,Expensive,Montana,1:25 AM,1,false
+439,Bytecard,Indian,Expensive,Washington,11:45 AM,2,false
+440,Namfix,Korean,Expensive,Barnett,1:38 PM,4,false
+441,Cardguard,Japanese,Expensive,Manitowish,11:02 AM,2,true
+442,Ronstring,Indian,Medium,Express,1:22 AM,1,false
+443,Transcof,Thai,Medium,Kropf,6:55 PM,5,false
+444,Redhold,Chinese,Cheep,Macpherson,6:25 PM,2,true
+445,Stronghold,Mexican,Expensive,Chive,10:34 AM,4,true
+446,Zontrax,Italian,Expensive,Sunnyside,11:40 PM,3,true
+447,Y-find,Mediterranean,Cheep,Bowman,7:22 PM,4,false
+448,Voltsillam,Italian,Expensive,Summit,4:56 PM,4,true
+449,Ronstring,American,Expensive,Farwell,1:08 AM,4,false
+450,Konklab,Japanese,Expensive,Charing Cross,2:10 PM,3,true
+451,Lotlux,French,Medium,Washington,1:43 PM,1,false
+452,Tresom,Italian,Cheep,Northland,7:02 AM,5,true
+453,Rank,Mediterranean,Medium,Charing Cross,5:56 AM,4,true
+454,Zontrax,American,Expensive,Burrows,1:18 PM,3,false
+455,Bamity,Japanese,Medium,Kedzie,1:21 AM,4,false
+456,Ventosanzap,Japanese,Cheep,Marcy,10:51 AM,1,false
+457,Subin,Indian,Expensive,Haas,2:17 PM,1,true
+458,Ronstring,French,Expensive,Corben,8:51 PM,3,false
+459,Solarbreeze,Mediterranean,Medium,Daystar,9:36 AM,5,true
+460,Cardguard,Italian,Expensive,Grayhawk,8:30 PM,3,false
+461,Rank,Chinese,Medium,Pond,11:31 PM,4,false
+462,Vagram,Mexican,Cheep,Mifflin,8:18 AM,1,true
+463,Y-Solowarm,Thai,Cheep,Delaware,10:57 PM,1,true
+464,Alphazap,Mexican,Medium,Sommers,2:46 PM,3,true
+465,Tin,French,Expensive,International,8:03 AM,3,true
+466,Regrant,Japanese,Expensive,Loeprich,1:52 AM,4,true
+467,Hatity,French,Medium,1st,11:33 AM,2,true
+468,Aerified,Korean,Medium,Vermont,10:03 AM,2,true
+469,Holdlamis,Thai,Expensive,Hoepker,7:02 PM,5,false
+470,Subin,Italian,Medium,Manitowish,6:39 AM,5,false
+471,Zaam-Dox,Korean,Medium,Superior,4:56 PM,5,true
+472,It,Thai,Cheep,Meadow Ridge,1:15 AM,3,true
+473,Keylex,Italian,Expensive,Spohn,7:59 AM,2,true
+474,Konklux,Thai,Medium,Caliangt,5:23 AM,1,true
+475,Aerified,Mexican,Expensive,Elgar,2:31 AM,3,true
+476,Ventosanzap,Mediterranean,Expensive,Stone Corner,12:17 AM,3,true
+477,Voltsillam,Vegan,Medium,Mendota,1:39 PM,1,true
+478,Tampflex,Italian,Expensive,Shoshone,11:17 AM,3,false
+479,Job,Chinese,Cheep,Mccormick,1:56 AM,2,true
+480,Fintone,Mexican,Expensive,1st,4:30 AM,1,true
+481,Vagram,Italian,Expensive,Almo,3:49 AM,1,false
+482,Matsoft,Thai,Expensive,Lukken,1:19 PM,1,true
+483,Zaam-Dox,Vegan,Medium,Prairieview,3:49 PM,4,false
+484,Tin,Italian,Medium,Declaration,7:50 PM,4,true
+485,Daltfresh,American,Expensive,Dawn,4:35 PM,4,false
+486,Matsoft,Mediterranean,Expensive,American,10:36 AM,2,false
+487,Quo Lux,Italian,Medium,Nobel,7:00 AM,1,true
+488,Zathin,Indian,Expensive,Eggendart,9:59 PM,5,false
+489,Zoolab,Vegan,Cheep,Sunbrook,5:12 AM,1,true
+490,Gembucket,American,Medium,Sutherland,3:03 PM,2,false
+491,Zoolab,Vegan,Cheep,Merrick,1:18 PM,1,true
+492,Solarbreeze,Mediterranean,Expensive,West,7:20 AM,4,false
+493,Stronghold,American,Expensive,Oneill,9:59 AM,5,true
+494,Latlux,Indian,Expensive,Sherman,12:13 AM,5,true
+495,Keylex,Indian,Medium,Eagle Crest,7:04 PM,1,true
+496,Alpha,Italian,Expensive,Montana,2:19 AM,4,true
+497,Domainer,French,Medium,Stephen,8:31 AM,3,true
+498,Greenlam,Thai,Expensive,Manufacturers,2:22 PM,5,true
+499,Temp,Italian,Cheep,Duke,10:37 AM,1,false
+500,Tres-Zap,Chinese,Expensive,Prentice,6:51 AM,2,true
+501,Ronstring,American,Medium,Texas,11:38 AM,1,false
+502,Keylex,American,Cheep,Rockefeller,5:27 PM,2,false
+503,Overhold,Mexican,Medium,Eagle Crest,1:04 AM,5,false
+504,Toughjoyfax,Mediterranean,Expensive,Westend,5:48 PM,5,true
+505,Voyatouch,Vegan,Medium,Hagan,6:58 PM,3,true
+506,Cardify,Korean,Medium,Scoville,9:37 PM,2,true
+507,Alphazap,Japanese,Cheep,Westridge,10:50 AM,5,false
+508,Konklab,French,Medium,Dennis,6:37 AM,3,false
+509,Latlux,French,Medium,Goodland,12:12 PM,3,true
+510,Flexidy,French,Medium,Kedzie,11:05 AM,3,true
+511,Alpha,Italian,Expensive,Lake View,11:40 AM,3,false
+512,Transcof,Italian,Cheep,Superior,12:35 PM,3,false
+513,Daltfresh,Japanese,Expensive,Prentice,4:23 AM,1,false
+514,Tin,Mediterranean,Expensive,Kingsford,12:19 AM,4,true
+515,Cardguard,Thai,Cheep,Bartelt,4:57 AM,2,true
+516,Overhold,Japanese,Medium,Oxford,4:55 AM,5,true
+517,Bitwolf,Korean,Expensive,Prairie Rose,5:16 PM,5,false
+518,Temp,Mediterranean,Expensive,Upham,12:28 AM,2,true
+519,Konklab,Japanese,Cheep,Magdeline,7:07 AM,5,false
+520,Y-Solowarm,Thai,Expensive,Crescent Oaks,9:24 AM,2,false
+521,Lotstring,Mediterranean,Expensive,Hanover,10:30 AM,1,true
+522,Treeflex,Mediterranean,Expensive,Montana,3:35 AM,2,false
+523,Tres-Zap,Mediterranean,Medium,Chive,11:52 PM,1,false
+524,Matsoft,Korean,Medium,Myrtle,9:07 PM,3,true
+525,Sonsing,Mediterranean,Expensive,Esch,3:30 AM,3,true
+526,Daltfresh,Japanese,Cheep,Mcguire,10:15 PM,3,true
+527,Y-find,Italian,Cheep,Hollow Ridge,4:43 AM,3,true
+528,Asoka,Vegan,Cheep,Pine View,1:30 AM,5,true
+529,Overhold,Vegan,Medium,Kedzie,12:26 PM,2,true
+530,Opela,Thai,Expensive,Declaration,3:18 AM,5,true
+531,Opela,Mexican,Medium,School,4:41 AM,5,false
+532,Alpha,Mexican,Medium,Schurz,2:02 PM,2,false
+533,Subin,Thai,Expensive,Old Gate,3:16 AM,4,false
+534,Span,Chinese,Cheep,Jay,11:15 PM,4,false
+535,Y-Solowarm,Italian,Medium,Larry,11:24 PM,3,true
+536,Aerified,Mexican,Medium,Harper,7:15 PM,5,true
+537,It,Korean,Cheep,Mesta,4:06 PM,2,true
+538,Rank,Italian,Expensive,Melvin,11:19 PM,1,true
+539,Zathin,Thai,Expensive,Forster,3:22 AM,2,false
+540,Cardguard,Indian,Cheep,Dwight,12:44 PM,3,true
+541,Zoolab,Italian,Cheep,Rieder,7:28 AM,2,false
+542,Pannier,Chinese,Expensive,Chinook,6:18 AM,2,true
+543,Zoolab,Vegan,Medium,Nobel,7:39 PM,4,false
+544,Namfix,Korean,Cheep,Dorton,3:35 AM,2,true
+545,Greenlam,Japanese,Expensive,Anniversary,1:32 PM,2,false
+546,Solarbreeze,Mexican,Expensive,Truax,10:33 PM,3,false
+547,Voltsillam,Vegan,Expensive,Moland,9:03 PM,5,true
+548,Treeflex,Korean,Expensive,Mcbride,6:49 AM,2,true
+549,Stringtough,Thai,Medium,Moulton,2:14 PM,5,false
+550,Stringtough,Vegan,Medium,Merrick,5:10 PM,1,true
+551,Transcof,Japanese,Expensive,Oxford,2:20 AM,5,true
+552,Andalax,Mediterranean,Expensive,Muir,8:47 AM,3,false
+553,Flexidy,Indian,Medium,Maryland,12:40 AM,1,true
+554,Regrant,American,Medium,Longview,9:30 PM,5,true
+555,Hatity,French,Expensive,Hoffman,7:53 AM,2,false
+556,Rank,Chinese,Expensive,Linden,8:03 AM,3,false
+557,Tresom,Vegan,Expensive,Chinook,3:46 AM,5,true
+558,Holdlamis,Indian,Expensive,Meadow Valley,9:49 AM,4,true
+559,Bitchip,Vegan,Medium,Acker,6:20 PM,1,true
+560,Fintone,Indian,Expensive,Moose,8:38 PM,5,false
+561,Stronghold,Indian,Medium,Dawn,11:22 PM,2,false
+562,Namfix,Indian,Medium,Westerfield,2:38 AM,5,false
+563,Aerified,Italian,Medium,Fulton,2:07 AM,5,false
+564,Redhold,Chinese,Cheep,Autumn Leaf,1:11 AM,4,false
+565,Alpha,Vegan,Cheep,Vidon,8:30 PM,1,false
+566,Subin,Mediterranean,Cheep,Reinke,7:03 AM,3,false
+567,Zontrax,American,Medium,Londonderry,3:36 AM,3,false
+568,Voltsillam,French,Cheep,Magdeline,5:46 PM,1,false
+569,Vagram,Italian,Expensive,Grim,7:13 PM,5,true
+570,Home Ing,American,Expensive,Kennedy,3:27 PM,3,true
+571,Fix San,Korean,Cheep,Ludington,8:34 PM,1,true
+572,Y-Solowarm,Italian,Medium,Derek,10:41 AM,1,true
+573,Fixflex,Thai,Medium,Delaware,3:18 PM,5,true
+574,Overhold,Japanese,Expensive,Kropf,3:06 PM,1,true
+575,Stronghold,American,Medium,Coleman,9:57 AM,4,true
+576,Rank,Mexican,Expensive,Fordem,5:06 AM,1,true
+577,Trippledex,Mediterranean,Medium,Reinke,11:07 AM,5,true
+578,Veribet,Vegan,Expensive,Huxley,7:13 PM,3,false
+579,Alpha,Thai,Medium,La Follette,8:35 PM,1,false
+580,Zaam-Dox,Japanese,Cheep,Oak Valley,2:39 PM,3,true
+581,Sonsing,Mediterranean,Expensive,Butternut,1:16 PM,4,true
+582,Latlux,Chinese,Medium,Namekagon,3:38 PM,5,true
+583,Matsoft,Chinese,Medium,Granby,9:55 PM,1,true
+584,Ronstring,American,Expensive,Sachtjen,8:50 PM,2,true
+585,Voltsillam,American,Expensive,Becker,11:56 AM,4,false
+586,Hatity,Mexican,Medium,Sullivan,1:08 AM,3,true
+587,Home Ing,Italian,Cheep,Parkside,11:46 AM,3,false
+588,Viva,Thai,Expensive,Muir,5:53 PM,4,true
+589,Bytecard,Korean,Cheep,Di Loreto,11:38 PM,5,false
+590,Konklux,French,Medium,Superior,6:22 PM,3,false
+591,Trippledex,Chinese,Cheep,Hudson,6:47 AM,2,false
+592,Lotstring,French,Expensive,Annamark,7:28 PM,2,false
+593,Konklux,French,Expensive,8th,9:04 AM,2,false
+594,Konklux,Thai,Cheep,Bultman,11:58 AM,1,true
+595,Greenlam,Korean,Medium,Nevada,11:44 AM,2,false
+596,Mat Lam Tam,Thai,Medium,Ohio,11:40 AM,5,true
+597,Y-find,Italian,Medium,Maryland,8:02 AM,3,false
+598,Matsoft,Mediterranean,Cheep,Jackson,11:03 AM,1,true
+599,Tres-Zap,Chinese,Medium,Bobwhite,8:59 AM,3,true
+600,Solarbreeze,Indian,Cheep,Packers,10:29 PM,1,false
+601,Holdlamis,Indian,Medium,Marcy,7:31 PM,5,false
+602,Home Ing,Korean,Medium,Northwestern,1:31 PM,5,false
+603,Ventosanzap,Mexican,Expensive,Sullivan,3:24 PM,1,false
+604,Bitwolf,Mexican,Medium,Bluestem,8:09 AM,5,false
+605,Tresom,Italian,Medium,Karstens,7:39 AM,3,false
+606,Vagram,Mediterranean,Expensive,Canary,1:14 AM,3,false
+607,Home Ing,Mexican,Cheep,Anzinger,3:51 PM,1,false
+608,Latlux,Indian,Medium,Michigan,2:40 PM,3,true
+609,Cookley,Vegan,Expensive,Melody,3:13 PM,1,true
+610,Biodex,Italian,Medium,Duke,8:56 PM,3,false
+611,Job,Korean,Cheep,Sunnyside,8:31 AM,5,false
+612,Sonair,Korean,Medium,Northview,9:47 AM,4,false
+613,Temp,Mediterranean,Medium,Darwin,9:22 PM,3,true
+614,Redhold,Japanese,Expensive,Johnson,6:58 PM,3,false
+615,Solarbreeze,Korean,Cheep,Milwaukee,10:28 PM,1,true
+616,Bamity,Chinese,Cheep,Tennessee,11:50 PM,1,true
+617,Bigtax,Mexican,Cheep,Stoughton,2:29 AM,5,false
+618,Greenlam,French,Medium,Nobel,10:05 PM,1,true
+619,Span,Italian,Expensive,Meadow Ridge,9:45 PM,3,false
+620,Vagram,Thai,Medium,Chinook,7:05 AM,1,true
+621,Biodex,Korean,Expensive,Vahlen,6:42 PM,2,false
+622,Fix San,Japanese,Medium,Grayhawk,8:53 AM,2,true
+623,Kanlam,Italian,Cheep,Village Green,12:24 AM,3,true
+624,Mat Lam Tam,Vegan,Medium,Everett,8:12 AM,2,true
+625,Matsoft,Japanese,Cheep,Macpherson,5:41 AM,2,true
+626,Mat Lam Tam,Indian,Expensive,Lien,11:01 AM,2,false
+627,Bytecard,Thai,Expensive,Superior,1:17 PM,1,true
+628,Bitchip,Italian,Expensive,Pennsylvania,11:39 AM,5,false
+629,Pannier,Japanese,Expensive,Forest,6:56 PM,5,false
+630,Otcom,Vegan,Cheep,Karstens,7:19 PM,4,false
+631,Y-Solowarm,Mediterranean,Cheep,Talisman,5:50 AM,1,false
+632,Greenlam,Italian,Expensive,Buena Vista,4:07 AM,2,true
+633,Sub-Ex,Mediterranean,Medium,Kensington,10:19 PM,4,true
+634,Stim,Japanese,Expensive,Bowman,7:20 PM,1,false
+635,Vagram,Thai,Cheep,Lukken,7:58 AM,4,false
+636,Ronstring,American,Cheep,Del Sol,3:29 PM,2,false
+637,Duobam,Japanese,Medium,Sachtjen,7:25 PM,4,false
+638,Overhold,Mediterranean,Medium,Weeping Birch,4:22 AM,3,false
+639,Otcom,Thai,Cheep,Express,7:44 AM,3,false
+640,Temp,Thai,Expensive,High Crossing,4:09 PM,1,false
+641,Voltsillam,Chinese,Expensive,Petterle,10:54 AM,3,true
+642,Flowdesk,Indian,Cheep,Fulton,8:25 AM,5,true
+643,Sub-Ex,Japanese,Expensive,Loftsgordon,2:39 AM,2,true
+644,Rank,French,Cheep,Northridge,10:39 PM,5,false
+645,Voyatouch,Vegan,Cheep,Nevada,11:50 PM,3,true
+646,Aerified,French,Medium,Fallview,10:32 AM,1,true
+647,Stringtough,Thai,Expensive,Loftsgordon,2:15 AM,4,true
+648,Flowdesk,Vegan,Expensive,Sugar,6:01 PM,5,false
+649,Solarbreeze,Vegan,Expensive,Coolidge,4:59 PM,4,false
+650,Wrapsafe,Mexican,Medium,Logan,4:26 PM,3,true
+651,Temp,Thai,Medium,Brentwood,3:28 AM,1,false
+652,Daltfresh,Thai,Medium,Myrtle,8:44 AM,5,true
+653,Biodex,Mexican,Expensive,Butternut,8:56 PM,3,false
+654,Sonair,Italian,Cheep,Drewry,10:08 PM,5,true
+655,Ventosanzap,French,Medium,Kinsman,1:28 PM,5,true
+656,Latlux,Thai,Cheep,Bayside,9:21 PM,2,false
+657,Y-find,Italian,Cheep,Banding,11:49 AM,2,true
+658,Asoka,Chinese,Expensive,Acker,6:00 AM,1,false
+659,Vagram,Japanese,Expensive,Larry,1:36 AM,4,false
+660,Zaam-Dox,French,Cheep,Eggendart,12:53 AM,1,false
+661,Bigtax,Korean,Expensive,Bonner,9:29 PM,4,false
+662,Opela,Chinese,Medium,Loomis,9:48 PM,1,false
+663,Temp,Vegan,Expensive,Artisan,1:35 AM,5,true
+664,Zoolab,Korean,Expensive,Sachtjen,4:04 AM,2,true
+665,Wrapsafe,Chinese,Medium,Morrow,2:55 AM,2,false
+666,Alpha,Chinese,Medium,Gina,4:34 PM,1,false
+667,Fix San,Indian,Cheep,Dryden,9:14 PM,1,true
+668,Wrapsafe,American,Medium,John Wall,11:42 AM,2,true
+669,Holdlamis,Indian,Cheep,1st,1:50 AM,5,false
+670,Overhold,Thai,Medium,Toban,3:44 PM,2,false
+671,Aerified,Vegan,Cheep,Hazelcrest,7:55 AM,5,false
+672,Subin,Mediterranean,Expensive,Bashford,6:05 AM,3,false
+673,Voltsillam,Vegan,Medium,Lakewood Gardens,10:48 AM,2,false
+674,Cardguard,Japanese,Cheep,Hooker,10:25 AM,5,true
+675,Ventosanzap,Thai,Medium,Graedel,8:03 PM,2,true
+676,Y-find,American,Cheep,Surrey,4:14 PM,4,false
+677,Voltsillam,American,Medium,Claremont,10:54 PM,2,true
+678,Zaam-Dox,Mexican,Cheep,Del Sol,6:01 AM,1,false
+679,Keylex,American,Medium,Emmet,1:25 AM,5,false
+680,Sonair,American,Expensive,Maryland,9:24 PM,4,true
+681,Quo Lux,French,Medium,Jackson,2:05 AM,5,true
+682,Ventosanzap,American,Medium,Pepper Wood,2:56 AM,1,false
+683,Bigtax,Mediterranean,Medium,Novick,2:17 PM,4,true
+684,Fixflex,Japanese,Expensive,Stephen,4:24 PM,3,false
+685,Hatity,Mexican,Cheep,Sutherland,1:26 PM,1,false
+686,Bigtax,Japanese,Expensive,Kedzie,4:50 PM,3,false
+687,Treeflex,Italian,Expensive,Nelson,7:59 AM,5,false
+688,Treeflex,Korean,Cheep,Moland,4:18 AM,2,true
+689,Job,Korean,Cheep,Maywood,1:02 PM,2,true
+690,Bytecard,Korean,Expensive,Killdeer,11:43 PM,3,true
+691,Temp,Indian,Expensive,Basil,7:56 AM,4,false
+692,Stim,Italian,Expensive,Dorton,8:32 PM,5,false
+693,Daltfresh,American,Expensive,2nd,2:01 AM,2,true
+694,Andalax,Thai,Medium,Schlimgen,1:55 AM,1,true
+695,Wrapsafe,French,Medium,Commercial,6:12 AM,2,true
+696,Domainer,Vegan,Expensive,Caliangt,7:20 AM,3,true
+697,Ventosanzap,Italian,Cheep,Ludington,3:22 PM,2,false
+698,Flowdesk,Mexican,Medium,Donald,11:20 PM,1,false
+699,Flexidy,Japanese,Expensive,Bluejay,4:45 AM,3,false
+700,Bitwolf,American,Expensive,Waubesa,1:45 PM,3,true
+701,Sonair,Korean,Expensive,Fairfield,12:32 PM,3,false
+702,Flexidy,American,Cheep,Scott,4:22 AM,1,false
+703,Biodex,Korean,Medium,Rutledge,3:25 AM,3,false
+704,Bamity,Japanese,Expensive,Manley,7:56 AM,4,false
+705,Tin,French,Expensive,Tennyson,8:23 PM,2,false
+706,Domainer,Thai,Expensive,Eastwood,11:03 PM,1,false
+707,Keylex,Mexican,Medium,John Wall,5:47 PM,5,false
+708,Fix San,American,Expensive,Bluestem,10:46 AM,1,false
+709,Overhold,Mexican,Medium,Holy Cross,12:04 AM,3,false
+710,Gembucket,Korean,Medium,Schiller,7:07 PM,5,false
+711,Ventosanzap,Mediterranean,Medium,Westerfield,8:57 AM,2,true
+712,It,French,Expensive,Golf Course,11:24 PM,5,false
+713,Toughjoyfax,American,Expensive,1st,11:18 AM,3,true
+714,Transcof,Mediterranean,Expensive,Superior,10:21 AM,5,false
+715,Latlux,Mediterranean,Medium,Loomis,2:31 AM,2,false
+716,Bytecard,Vegan,Medium,Ridgeview,3:23 AM,5,false
+717,Temp,Mexican,Expensive,Jenna,12:00 AM,3,true
+718,Opela,Korean,Cheep,Sloan,6:22 AM,4,true
+719,Treeflex,Korean,Expensive,Parkside,9:29 PM,2,true
+720,Alpha,Mediterranean,Expensive,Raven,2:45 PM,3,true
+721,Holdlamis,Vegan,Cheep,Arrowood,5:18 AM,1,true
+722,Overhold,Italian,Expensive,Veith,2:23 AM,1,true
+723,Ventosanzap,Thai,Medium,Elmside,4:01 AM,5,false
+724,Konklab,Chinese,Cheep,Morning,11:22 PM,2,false
+725,Toughjoyfax,French,Medium,Badeau,5:32 AM,3,true
+726,Zontrax,Indian,Cheep,Hauk,2:24 AM,3,false
+727,Redhold,Chinese,Medium,Hanover,12:12 AM,4,true
+728,Matsoft,Japanese,Medium,Birchwood,3:57 PM,3,false
+729,Fintone,Chinese,Cheep,Cherokee,4:27 PM,1,false
+730,Fix San,Thai,Cheep,Gina,6:07 AM,3,false
+731,Overhold,Chinese,Medium,3rd,4:25 AM,5,false
+732,Rank,American,Expensive,Derek,11:57 PM,4,false
+733,Transcof,Chinese,Cheep,Rowland,11:01 PM,2,true
+734,Zathin,French,Medium,Mandrake,9:14 PM,2,false
+735,Daltfresh,Korean,Medium,Clarendon,11:45 PM,4,false
+736,Duobam,Indian,Cheep,Tennessee,7:46 PM,3,false
+737,Quo Lux,Korean,Cheep,Blue Bill Park,5:14 PM,1,false
+738,Fix San,French,Cheep,Mitchell,3:54 PM,4,false
+739,Prodder,Italian,Medium,Vermont,3:17 PM,4,true
+740,Aerified,Thai,Cheep,Service,5:17 PM,3,false
+741,Stringtough,French,Medium,Comanche,5:39 PM,2,true
+742,Cardguard,French,Expensive,Laurel,3:56 PM,4,true
+743,Stringtough,Korean,Expensive,Badeau,7:42 PM,4,true
+744,Stim,Korean,Expensive,Londonderry,11:11 PM,2,false
+745,Cardify,Indian,Medium,Fordem,10:37 AM,2,false
+746,It,Mediterranean,Expensive,Sloan,6:16 PM,5,true
+747,Alpha,Vegan,Expensive,Brickson Park,1:18 PM,4,false
+748,Bitchip,Korean,Cheep,Cottonwood,1:35 PM,1,true
+749,Voltsillam,Mexican,Medium,Buell,12:38 AM,1,true
+750,Sonair,Japanese,Expensive,Barnett,8:24 PM,4,false
+751,Asoka,Italian,Expensive,Eastwood,3:21 AM,2,false
+752,Span,Italian,Medium,Hazelcrest,4:34 AM,3,true
+753,Treeflex,Vegan,Cheep,Pawling,6:17 PM,5,false
+754,Hatity,Indian,Medium,Vermont,1:31 AM,3,false
+755,Quo Lux,Vegan,Cheep,Lyons,10:38 AM,2,true
+756,Tin,Mexican,Medium,Lighthouse Bay,3:29 AM,4,true
+757,Latlux,Mexican,Cheep,Hanson,10:01 PM,5,false
+758,Bamity,Indian,Cheep,Mariners Cove,12:49 PM,4,false
+759,Job,Korean,Medium,Holy Cross,5:20 PM,4,false
+760,Voltsillam,Indian,Medium,Tennyson,3:03 PM,5,true
+761,Konklab,Japanese,Medium,Sloan,9:41 AM,3,false
+762,Regrant,American,Expensive,Comanche,7:58 PM,2,true
+763,Zamit,Chinese,Expensive,Portage,2:45 AM,5,true
+764,Tres-Zap,French,Expensive,Warner,5:05 AM,4,false
+765,Zoolab,Japanese,Expensive,Vidon,5:34 AM,3,true
+766,Daltfresh,Mediterranean,Expensive,Cherokee,6:47 PM,1,true
+767,Bitwolf,Indian,Cheep,Green Ridge,12:40 AM,1,false
+768,Domainer,Japanese,Cheep,Victoria,1:43 AM,1,true
+769,Alpha,Japanese,Expensive,Vermont,2:36 AM,5,false
+770,Bigtax,Indian,Expensive,American Ash,8:40 PM,2,false
+771,Y-find,Mexican,Cheep,Sugar,9:51 AM,5,true
+772,Treeflex,Mexican,Expensive,Ruskin,12:35 AM,4,false
+773,Sonsing,Vegan,Medium,Nova,8:55 PM,1,false
+774,Quo Lux,Japanese,Expensive,Nevada,11:05 PM,2,false
+775,Latlux,Vegan,Cheep,Havey,6:06 AM,2,false
+776,Fixflex,Indian,Expensive,Alpine,4:56 AM,4,true
+777,Regrant,Indian,Cheep,Lerdahl,5:43 PM,2,true
+778,Konklux,Chinese,Medium,Fordem,7:44 AM,2,true
+779,It,Korean,Cheep,Bobwhite,1:04 PM,4,true
+780,Asoka,Mexican,Cheep,Veith,11:01 PM,5,true
+781,Fix San,Thai,Medium,Buhler,10:55 PM,5,false
+782,Keylex,Vegan,Medium,Scofield,10:32 PM,4,true
+783,Veribet,French,Cheep,Fuller,12:09 PM,4,true
+784,It,Italian,Expensive,Westend,1:41 AM,1,true
+785,Zathin,Indian,Medium,Union,3:30 AM,1,true
+786,Bamity,Korean,Medium,Park Meadow,2:47 AM,5,false
+787,Ronstring,Vegan,Cheep,Armistice,1:42 AM,5,false
+788,Viva,Thai,Expensive,Pawling,4:59 PM,3,false
+789,Bamity,Mexican,Medium,Barnett,3:32 AM,1,false
+790,Trippledex,Italian,Medium,Fisk,6:37 PM,5,true
+791,Biodex,Indian,Medium,Forster,10:56 PM,4,false
+792,Tresom,Korean,Expensive,Mandrake,9:24 PM,3,true
+793,Redhold,American,Cheep,Hagan,8:17 PM,1,true
+794,Flowdesk,Italian,Expensive,Dennis,9:46 PM,2,false
+795,Alphazap,Thai,Cheep,Hudson,4:54 PM,5,false
+796,Konklux,Korean,Expensive,Tennessee,8:50 PM,5,true
+797,Fixflex,Thai,Medium,Kenwood,5:30 PM,2,false
+798,Viva,Mexican,Expensive,Chive,10:14 AM,5,true
+799,Overhold,Vegan,Medium,Johnson,3:51 PM,3,false
+800,Veribet,Indian,Cheep,Walton,4:39 AM,3,false
+801,Pannier,Italian,Expensive,Sunfield,8:24 AM,3,true
+802,Tampflex,Japanese,Medium,Mayfield,12:44 AM,4,true
+803,Y-Solowarm,American,Cheep,Birchwood,3:45 PM,3,true
+804,Otcom,Korean,Medium,Rigney,1:58 PM,3,true
+805,Quo Lux,Chinese,Medium,Northview,3:59 PM,5,false
+806,Tempsoft,French,Expensive,Hudson,12:53 AM,3,true
+807,Lotlux,American,Medium,Sutherland,2:01 AM,2,true
+808,Biodex,Indian,Cheep,Lyons,7:39 AM,2,false
+809,Tampflex,Thai,Cheep,Haas,7:19 PM,4,true
+810,Temp,Korean,Expensive,Beilfuss,9:00 PM,2,false
+811,Stringtough,Italian,Medium,Namekagon,5:06 AM,5,true
+812,Andalax,Chinese,Cheep,Melrose,2:04 PM,5,false
+813,Gembucket,Chinese,Medium,Burrows,1:46 AM,3,true
+814,Ventosanzap,Mexican,Cheep,Forest Dale,11:14 PM,5,true
+815,Sonsing,Indian,Expensive,Mitchell,1:21 AM,1,false
+816,Fixflex,Mexican,Expensive,Lotheville,4:20 AM,4,true
+817,Ventosanzap,Thai,Cheep,Rusk,12:53 AM,1,true
+818,Fix San,Indian,Cheep,Stephen,10:06 AM,5,false
+819,Namfix,Vegan,Expensive,Carberry,3:32 AM,2,true
+820,Temp,Korean,Expensive,Warner,7:03 PM,3,true
+821,Job,American,Cheep,Pepper Wood,7:42 AM,3,false
+822,It,Chinese,Medium,Schurz,3:50 PM,3,true
+823,Cardguard,Korean,Expensive,Schiller,3:28 PM,1,false
+824,Regrant,Italian,Expensive,Graceland,3:23 PM,3,true
+825,Bitwolf,Japanese,Cheep,Gerald,3:38 PM,4,true
+826,Keylex,American,Medium,Monterey,10:00 PM,3,false
+827,Lotstring,Vegan,Expensive,Lukken,11:40 PM,1,true
+828,Cardguard,Italian,Expensive,Anniversary,10:51 PM,2,true
+829,Ronstring,Mediterranean,Medium,Mcguire,5:35 PM,5,false
+830,Viva,Mediterranean,Expensive,Marquette,10:02 PM,2,false
+831,Daltfresh,Indian,Expensive,Mallard,10:07 PM,5,false
+832,Zontrax,Thai,Cheep,Hayes,8:59 AM,3,false
+833,Job,Thai,Medium,3rd,9:51 PM,3,false
+834,Domainer,Thai,Cheep,South,2:31 AM,1,true
+835,Ventosanzap,American,Expensive,Golf Course,10:35 AM,2,false
+836,Home Ing,French,Expensive,Bluejay,11:05 AM,2,true
+837,Home Ing,Mexican,Cheep,Fairview,8:02 AM,2,true
+838,Stim,American,Cheep,Anniversary,8:32 PM,2,true
+839,Aerified,Thai,Medium,Rockefeller,10:47 AM,5,false
+840,Zamit,Indian,Cheep,Kedzie,1:32 AM,4,true
+841,Wrapsafe,Vegan,Medium,Golf,1:09 PM,4,false
+842,Toughjoyfax,Mediterranean,Cheep,Namekagon,9:54 PM,3,false
+843,Stronghold,Mexican,Expensive,Myrtle,12:10 PM,5,true
+844,Mat Lam Tam,Mediterranean,Expensive,Mifflin,9:10 AM,2,true
+845,It,Italian,Cheep,Lawn,12:26 AM,5,true
+846,It,Mexican,Expensive,Butterfield,3:19 AM,5,true
+847,Namfix,Chinese,Cheep,Sage,3:33 AM,2,true
+848,Kanlam,Thai,Expensive,Maple,2:05 PM,4,false
+849,Tampflex,Thai,Expensive,Maple Wood,1:41 PM,4,true
+850,Veribet,Chinese,Medium,Bunker Hill,3:29 PM,4,true
+851,Trippledex,Korean,Cheep,Union,5:33 PM,2,false
+852,Bitchip,Mediterranean,Expensive,Chive,7:22 PM,5,true
+853,Fixflex,Mexican,Cheep,Bartelt,3:21 AM,1,true
+854,Rank,Korean,Cheep,Beilfuss,10:24 PM,5,true
+855,Trippledex,French,Expensive,Dayton,10:30 AM,4,false
+856,Zathin,Indian,Expensive,Bultman,1:27 AM,2,true
+857,Subin,Korean,Expensive,Talmadge,5:50 PM,5,false
+858,It,Mediterranean,Expensive,Saint Paul,7:03 PM,3,false
+859,Opela,Indian,Cheep,Maple Wood,1:20 AM,2,true
+860,Gembucket,Thai,Expensive,Daystar,1:43 PM,5,false
+861,Vagram,Thai,Expensive,Rockefeller,4:57 AM,1,true
+862,Cookley,Vegan,Expensive,Nevada,12:00 AM,5,false
+863,Tin,Chinese,Expensive,Susan,10:51 AM,2,true
+864,Keylex,French,Medium,Vidon,11:43 PM,4,true
+865,Bitwolf,Chinese,Expensive,Hanson,6:50 PM,5,false
+866,Bytecard,Mexican,Medium,Manufacturers,2:02 AM,5,true
+867,Greenlam,Indian,Expensive,Sloan,9:07 AM,3,false
+868,Andalax,Japanese,Expensive,Elka,10:35 PM,3,true
+869,Ventosanzap,Chinese,Medium,Del Sol,8:30 PM,4,false
+870,Namfix,Chinese,Medium,Brown,3:00 PM,3,false
+871,Bamity,Vegan,Cheep,Nova,1:34 PM,5,true
+872,Domainer,French,Expensive,Debs,5:51 PM,4,true
+873,Bitchip,Mexican,Expensive,Lindbergh,12:25 PM,3,false
+874,Aerified,Chinese,Cheep,Old Shore,11:13 PM,3,true
+875,Ventosanzap,French,Expensive,Summit,9:52 AM,4,false
+876,Alphazap,Indian,Cheep,Golf,1:25 AM,3,true
+877,Zamit,Korean,Medium,Sauthoff,9:20 AM,5,true
+878,Fintone,Italian,Expensive,Carberry,11:18 PM,4,false
+879,Fintone,Japanese,Medium,Carey,5:57 AM,2,true
+880,Stronghold,American,Expensive,7th,1:41 AM,4,false
+881,Sonsing,Italian,Medium,Dorton,2:35 AM,2,false
+882,Duobam,Italian,Expensive,International,9:08 AM,1,false
+883,Overhold,Japanese,Cheep,Spenser,8:38 PM,3,true
+884,Asoka,French,Cheep,Bartelt,9:40 AM,5,true
+885,Solarbreeze,Vegan,Cheep,Leroy,11:32 AM,5,true
+886,Cardguard,French,Expensive,Mayer,4:29 AM,1,false
+887,Cookley,Indian,Medium,Center,9:32 AM,3,false
+888,Fixflex,French,Expensive,Vidon,9:17 PM,5,true
+889,Bigtax,Korean,Medium,Green,7:19 PM,2,false
+890,Zathin,Japanese,Medium,Montana,10:26 AM,3,false
+891,Flowdesk,Thai,Medium,Ridgeway,11:42 AM,3,true
+892,Bytecard,Vegan,Expensive,Pawling,3:10 PM,3,true
+893,Tres-Zap,Japanese,Expensive,Twin Pines,1:14 AM,5,false
+894,Transcof,Vegan,Expensive,Mcbride,2:12 PM,3,false
+895,Ronstring,French,Medium,Norway Maple,3:59 PM,2,false
+896,Regrant,Chinese,Cheep,Almo,12:49 AM,3,false
+897,Sub-Ex,Japanese,Expensive,Butternut,7:01 PM,1,false
+898,Duobam,Mediterranean,Expensive,Lukken,2:42 PM,1,true
+899,Greenlam,Mediterranean,Medium,Prairie Rose,1:30 AM,3,true
+900,Zaam-Dox,Mexican,Medium,Columbus,11:11 AM,3,false
+901,Alpha,Chinese,Cheep,Burrows,7:12 AM,2,false
+902,Tin,Chinese,Expensive,Anhalt,3:05 AM,4,true
+903,Voyatouch,French,Cheep,Sheridan,10:30 AM,5,false
+904,Mat Lam Tam,Mediterranean,Cheep,Namekagon,8:45 PM,5,false
+905,Alpha,Japanese,Cheep,Cascade,5:25 AM,2,true
+906,Solarbreeze,Chinese,Cheep,Claremont,3:31 PM,4,false
+907,Alpha,Thai,Expensive,Hallows,12:58 PM,4,false
+908,Duobam,Chinese,Cheep,Maywood,7:56 AM,1,true
+909,Asoka,Vegan,Medium,Sutherland,1:51 PM,5,false
+910,Sonsing,Thai,Medium,Village,9:13 AM,2,true
+911,Bigtax,Mediterranean,Medium,American,9:20 AM,1,true
+912,Bigtax,Korean,Cheep,Marquette,3:31 AM,3,true
+913,Cardguard,Chinese,Cheep,Sage,9:13 AM,5,true
+914,Matsoft,Italian,Medium,Oriole,11:27 PM,4,true
+915,Bitchip,Thai,Expensive,Dovetail,1:02 AM,3,false
+916,Tin,Mediterranean,Medium,Spaight,5:01 AM,5,false
+917,It,Mediterranean,Expensive,Coleman,5:57 PM,3,false
+918,Pannier,Chinese,Medium,Bobwhite,1:16 AM,1,true
+919,Y-Solowarm,Korean,Cheep,Roxbury,7:25 PM,5,false
+920,Subin,Mediterranean,Cheep,Lindbergh,9:56 AM,5,true
+921,Prodder,Indian,Expensive,Washington,7:24 PM,3,true
+922,Sonsing,Korean,Cheep,Everett,2:49 PM,5,false
+923,Voyatouch,Mediterranean,Expensive,Cardinal,7:54 PM,2,true
+924,Wrapsafe,Indian,Expensive,Elgar,4:12 AM,5,false
+925,Stim,Korean,Cheep,Butterfield,1:35 AM,2,false
+926,Zontrax,Japanese,Cheep,Hoffman,4:25 AM,2,true
+927,Redhold,Thai,Cheep,Grayhawk,6:07 AM,2,true
+928,Bytecard,Korean,Expensive,Mitchell,11:13 AM,5,false
+929,Domainer,French,Expensive,Westport,5:45 PM,5,false
+930,Cookley,Japanese,Cheep,Karstens,3:23 AM,1,false
+931,Daltfresh,Korean,Cheep,Hooker,11:39 PM,2,true
+932,Voyatouch,French,Expensive,American,8:47 PM,3,true
+933,Flowdesk,Mediterranean,Medium,Canary,3:22 AM,1,true
+934,Keylex,French,Medium,Birchwood,5:47 AM,2,false
+935,Asoka,Mexican,Cheep,Logan,5:46 AM,2,true
+936,Cookley,Indian,Expensive,Tomscot,12:36 PM,5,false
+937,Domainer,French,Expensive,Arapahoe,4:28 PM,5,true
+938,Konklux,Japanese,Medium,Cascade,8:06 AM,1,true
+939,Bitwolf,Mediterranean,Expensive,Manley,2:10 PM,2,true
+940,Solarbreeze,Vegan,Medium,Warner,8:01 PM,4,true
+941,Asoka,Indian,Expensive,8th,6:39 PM,5,false
+942,Cookley,Thai,Expensive,Lunder,12:31 PM,1,true
+943,Sonsing,Mediterranean,Medium,Shasta,7:23 AM,2,true
+944,Flowdesk,Chinese,Medium,Gina,6:12 PM,1,true
+945,Job,Chinese,Medium,Loomis,12:36 AM,1,false
+946,Aerified,Mediterranean,Expensive,Sutherland,11:36 PM,3,true
+947,Flowdesk,Mediterranean,Cheep,Center,3:51 PM,1,true
+948,Namfix,Korean,Expensive,Springview,9:33 AM,1,true
+949,Biodex,Korean,Cheep,Eastwood,6:32 AM,5,false
+950,Duobam,Indian,Medium,Springview,7:07 PM,4,false
+951,Sonsing,Indian,Cheep,Evergreen,4:13 PM,1,true
+952,Regrant,Indian,Expensive,Mccormick,4:41 AM,4,true
+953,Quo Lux,Chinese,Expensive,Raven,10:20 AM,3,true
+954,Flowdesk,Vegan,Cheep,Rockefeller,11:56 AM,2,true
+955,Alphazap,American,Cheep,Elmside,6:16 PM,3,true
+956,Alphazap,Korean,Medium,La Follette,6:13 PM,3,false
+957,Stim,Japanese,Cheep,Esch,3:41 PM,5,false
+958,Cardify,Thai,Expensive,Shasta,8:36 PM,4,false
+959,Keylex,Thai,Expensive,Roxbury,9:41 PM,4,true
+960,Cardguard,Mexican,Medium,Washington,6:29 AM,1,true
+961,Bytecard,Chinese,Cheep,Heffernan,6:25 PM,4,true
+962,Bytecard,Mexican,Medium,Dwight,3:08 PM,3,false
+963,Stim,Vegan,Expensive,Towne,1:58 PM,5,true
+964,Greenlam,Mexican,Cheep,7th,10:17 AM,2,true
+965,Redhold,Mexican,Cheep,Service,1:55 AM,1,false
+966,Zaam-Dox,French,Cheep,Schiller,11:01 AM,3,true
+967,Toughjoyfax,Korean,Cheep,Little Fleur,3:16 AM,3,true
+968,Alpha,Mediterranean,Cheep,Atwood,2:51 PM,5,true
+969,Y-find,Thai,Expensive,Shelley,10:05 AM,3,false
+970,Redhold,French,Expensive,Sutteridge,10:42 PM,5,false
+971,Stringtough,Mediterranean,Cheep,Esker,10:47 AM,2,true
+972,Konklux,French,Medium,Sauthoff,7:27 PM,4,true
+973,Holdlamis,American,Medium,Kinsman,2:49 PM,4,true
+974,Fintone,Korean,Medium,Ohio,7:45 PM,4,false
+975,Overhold,Vegan,Expensive,Meadow Vale,5:01 PM,1,false
+976,Veribet,Japanese,Expensive,Esch,7:40 AM,1,true
+977,Aerified,Mediterranean,Cheep,Briar Crest,5:04 PM,4,false
+978,Lotstring,Japanese,Medium,Blaine,12:25 PM,4,true
+979,Fix San,Mexican,Cheep,Spohn,7:38 PM,1,false
+980,Domainer,Mexican,Expensive,Almo,11:56 AM,5,false
+981,Asoka,Mediterranean,Expensive,Fieldstone,6:52 AM,3,false
+982,Bytecard,Japanese,Expensive,Longview,4:27 AM,3,false
+983,Domainer,French,Medium,Schiller,6:07 AM,5,true
+984,Stringtough,American,Expensive,Mariners Cove,1:29 PM,4,true
+985,Bamity,Vegan,Cheep,Saint Paul,11:18 AM,1,true
+986,Biodex,Japanese,Cheep,Walton,3:19 AM,5,true
+987,Namfix,Korean,Expensive,Hanover,7:33 AM,3,true
+988,Tres-Zap,Chinese,Cheep,Messerschmidt,10:51 AM,3,false
+989,Keylex,Japanese,Medium,Duke,12:28 AM,5,false
+990,Wrapsafe,Vegan,Cheep,Truax,5:00 PM,5,false
+991,Zoolab,French,Cheep,Clyde Gallagher,6:28 AM,2,true
+992,Alphazap,Mediterranean,Cheep,Drewry,3:12 AM,1,false
+993,Y-find,Mexican,Expensive,Oakridge,6:22 PM,1,true
+994,Ventosanzap,Mediterranean,Medium,Myrtle,9:36 PM,1,false
+995,Home Ing,Italian,Medium,Pine View,5:02 AM,1,true
+996,Bytecard,Mexican,Cheep,Kingsford,9:47 PM,4,true
+997,Prodder,Vegan,Cheep,Montana,12:57 PM,5,false
+998,Flowdesk,Japanese,Medium,Gina,1:32 AM,2,true
+999,Biodex,American,Expensive,Bonner,10:10 AM,3,true
+1000,Fix San,Thai,Medium,Kedzie,12:34 AM,1,true
